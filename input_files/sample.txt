@@ -1,0 +1,4 @@
+hello world
+this is a huffman coding project
+data structures and algorithms
+compression utility using python

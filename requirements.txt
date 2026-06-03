@@ -1,0 +1,7 @@
+# Dynamic File Compression Utility Dependencies
+
+# Required for advanced compression algorithms (Zstandard)
+zstandard
+
+# Required for Brotli compression support
+brotli
